@@ -71,4 +71,4 @@ analytic_data <- cbind(categorical_variables,age,pos_affect,dep,prog_sat)
 analytic_data
 
 #save data
-write_csv(analytic_data,path="quiz1_analytic_data.csv")
+write_csv(analytic_data,path="quiz1_analytic_data_gomez.csv")
